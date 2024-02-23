@@ -1,0 +1,377 @@
+﻿@model IEnumerable<Cinemas.Models.Phim>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    <link rel="stylesheet" href="~/assetsLayout/styles/styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/assetsLayout/styles/Trangchu.css" asp-append-version="true" />
+
+}
+
+<div class="slider-container">
+    <div class="menu">
+        <label for="slide-dot-1"></label>
+        <label for="slide-dot-2"></label>
+        <label for="slide-dot-3"></label>
+    </div>
+
+    <input id="slide-dot-1" type="radio" name="slides" checked>
+    <div class="slide slide-1"></div>
+    e
+    <input id="slide-dot-2" type="radio" name="slides">
+    <div class="slide slide-2"></div>
+
+    <input id="slide-dot-3" type="radio" name="slides">
+    <div class="slide slide-3"></div>
+</div>
+<div class="grid">
+    <div class="movie_content">
+        <div class="movie_status">
+            <li class="tablinks_grid" electronic="movie_one">
+                <span>Phim đang chiếu</span>
+            </li>
+            <li class="tablinks_grid" electronic="movie_two">
+                <span>Phim sắp chiếu</span>
+            </li>
+        </div>
+        <div id="movie_one" class="grid__row tabcontent_grid">
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    if (item.IdtinhTrangPhimNavigation.TenTinhTrang == "Đang chiếu")
+                    {
+                        <div class="grid__column-2-4">
+                            <a href="" class="">
+                                <div class="movie_content--item">
+                                    <div class="movie_content--hover">
+                                        <img class="movie_content--img" src="~/images/movies/@item.Img" alt=""></img>
+                                        <i title="" ; class="far fa-play-circle"></i>
+                                    </div>
+                                    <div class="movie_content--text">
+                                        <div class="movie-content--title">
+                                            <a asp-action="Details" asp-route-id="@item.Idphim">@item.TenPhim</a>
+                                            <br>
+                                            <span>Thể loại:</span><span class="movie_text">@item.IdtheLoaiNavigation.TenTheLoai</span>
+                                            <br>
+                                            <span>Thời lượng:</span><span class="movie_text">@item.ThoiLuong phút</span>
+                                        </div>
+                                        <div class="movie_content--buy js-buy-movie ">Mua vé</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            }
+        </div>
+        <div id="movie_two" class="grid__row tabcontent_grid">
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    if (item.IdtinhTrangPhimNavigation.TenTinhTrang == "Sắp chiếu")
+                    {
+                        <div class="grid__column-2-4">
+                            <a href="" class="">
+                                <div class="movie_content--item">
+                                    <div class="movie_content--hover">
+                                        <img class="movie_content--img" src="~/images/movies/@item.Img" alt=""></img>
+                                        <i title="" ; class="far fa-play-circle"></i>
+                                    </div>
+                                    <div class="movie_content--text">
+                                        <div class="movie-content--title">
+                                            <a asp-action="Details" asp-route-id="@item.Idphim">@item.TenPhim</a>
+                                            <br>
+                                            <span>Thể loại:</span><span class="movie_text">@item.IdtheLoaiNavigation.TenTheLoai</span>
+                                            <br>
+                                            <span>Thời lượng:</span><span class="movie_text">@item.ThoiLuong phút</span>
+                                        </div>
+                                        <div class="movie_content--buy js-buy-movie ">Mua vé</div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            }
+        </div>
+
+    </div>
+
+    <div class="modal js-modal  js-modal-close">
+        <div class="modal-container js-modal-container">
+            <div class="click_close js-btn-close">
+                <i class="fa-solid fa-xmark "></i>
+            </div>
+            <div class="modal_header">
+                <h3>
+                    lịch chiếu -
+                    <span>Kumanthong: Quỷ Linh Nhi</span>
+                </h3>
+            </div>
+            <hr>
+            <div class="modal-body">
+                <div class="modal_content">
+                    <h1>Beta Rạp Thanh Hoá</h1>
+                </div>
+                <div class="showtimes">
+                    <ul class="viewdate">
+                        <li class="tablinks viewdate_calendar" electronic="ten">
+                            <span class="viewdate_calendar--number">10</span>/10 - T3
+                        </li>
+                        <li class="tablinks viewdate_calendar " electronic="eleven">
+                            <span class="viewdate_calendar--number ">11</span>/10 - T4
+                        </li>
+                        <li class="tablinks viewdate_calendar" electronic="twelve">
+                            <span class="viewdate_calendar--number">12</span>/10 - T5
+                        </li>
+                    </ul>
+                    <div class="showtimes_content showtimes_content--modal">
+                        <div class="showtimes_content--subtitle">
+                            <span>2D Phụ đề</span>
+                        </div>
+                        <div id="ten" class="tabcontent">
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">15:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        130 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time  js_buy--movie-2">21:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        144 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="eleven" class="tabcontent">
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">09:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        10 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">15:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        130 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time  js_buy--movie-2">21:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        144 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="twelve" class="tabcontent">
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        165 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">15:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        130 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time  js_buy--movie-2">21:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        144 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="showtimes_content showtimes_content--modal tabcontent ">
+                        <div class="showtimes_content--subtitle">
+                            <span>2D Phụ đề</span>
+                        </div>
+                        <div id="ten" style="display: flex; flex-direction: row;  margin-top: 20px;">
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">08:30</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        phong
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time js_buy--movie-2">15:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        130 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="showtimes_title">
+                                <div class="showtimes_title--time ">
+                                    <div class="btn_time  js_buy--movie-2">21:00</div>
+                                </div>
+                                <div class="showtimes_title--empty">
+                                    <div class="showtimes_title--empty-seat">
+                                        144 ghế trống
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal modal_two js_modal--2 js_modal--close-2">
+        <div class="modal-container--2 js_modal--container--2">
+            <div class="click_close js_btn--close-2 ">
+                <i class="fa-solid fa-xmark "></i>
+            </div>
+            <div class="modal_header">
+                <h3 class="modal_text">
+                    bạn đang đặt vé xem phim
+                </h3>
+            </div>
+            <hr>
+            <div class="modal-body">
+                <div class="modal_content">
+                    <h1>Kumanthong: Quỷ Linh Nhi</h1>
+                </div>
+                <div class="inf">
+                    <div class="timeshows">
+                        <div class="timeshows_text">
+                            <div>
+                                <span>Rạp chiếu</span>
+                            </div>
+                            <div>
+                                <span>Ngày chiếu</span>
+                            </div>
+                            <div>
+                                <span>Giờ chiếu</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeshows" style="background-color: #f9f9f9; padding-top: 20px; font-weight: bold; font-size: 18px;">
+                        <div class="timeshows_text">
+                            <div>
+                                <span>Beta Thanh Hoá</span>
+                            </div>
+                            <div>
+                                <span>10/10/2023</span>
+                            </div>
+                            <div>
+                                <span>15:00</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal_footer">
+                <a href="./DatVe.html">
+                    <span class="modal_footer--agree">Đồng ý</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    <script src="~/assetslayout/js/trangchu.js"></script>
+}

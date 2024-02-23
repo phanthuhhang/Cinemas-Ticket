@@ -1,0 +1,1739 @@
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\appsettings.Development.json
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\appsettings.json
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.staticwebassets.runtime.json
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.exe
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.deps.json
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.runtimeconfig.json
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.pdb
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Humanizer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\MessagePack.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Build.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.AssemblyReference.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfoInputs.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfo.cs
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CoreCompileInputs.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cs
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.Cinemas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinemas.props
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinemas.props
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinemas.props
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\bundle\Cinemas.styles.css
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\projectbundle\Cinemas.bundle.scp.css
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CopyComplete
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.dll
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\refint\Cinemas.dll
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.pdb
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.genruntimeconfig.cache
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\ref\Cinemas.dll
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\mscorlib.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\netstandard.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Console.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Memory.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Web.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Windows.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\PagedList.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\PagedList.Core.Mvc.dll
+D:\WebNC\source\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cs
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Azure.Core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Azure.Identity.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Memory.Data.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\appsettings.Development.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\appsettings.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.staticwebassets.runtime.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.exe
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.deps.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.runtimeconfig.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Cinemas.pdb
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\mscorlib.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\netstandard.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Collections.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Console.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Data.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Linq.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Memory.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Web.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Windows.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Azure.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Azure.Identity.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Practices.ServiceLocation.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Humanizer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\MessagePack.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Build.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\PagedList.Core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\PagedList.Core.Mvc.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.CodeDom.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Memory.Data.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Text.Json.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\XAct.Core.PCL.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.csproj.AssemblyReference.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfoInputs.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfo.cs
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CoreCompileInputs.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cs
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cs
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.Cinemas.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinemas.props
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinemas.props
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinemas.props
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\scopedcss\bundle\Cinemas.styles.css
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\scopedcss\projectbundle\Cinemas.bundle.scp.css
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CopyComplete
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\refint\Cinemas.dll
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.pdb
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\Cinemas.genruntimeconfig.cache
+D:\WebNC\source\Cinemas - Copy\Cinemas\obj\Debug\net6.0\ref\Cinemas.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.CodeDom.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\System.Text.Json.dll
+D:\WebNC\source\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\appsettings.Development.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\appsettings.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.staticwebassets.runtime.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.exe
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.deps.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.runtimeconfig.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Cinemas.pdb
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\mscorlib.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\netstandard.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Console.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Data.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Memory.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Windows.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Azure.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Azure.Identity.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Humanizer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\MessagePack.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Build.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\PagedList.Core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\PagedList.Core.Mvc.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.CodeDom.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Memory.Data.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Text.Json.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.AssemblyReference.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.GeneratedMSBuildEditorConfig.editorconfig
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfoInputs.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.AssemblyInfo.cs
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CoreCompileInputs.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cs
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.MvcApplicationPartsAssemblyInfo.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.RazorAssemblyInfo.cs
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.Cinemas.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinemas.props
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinemas.props
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinemas.props
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.pack.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.build.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\staticwebassets.development.json
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\bundle\Cinemas.styles.css
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\scopedcss\projectbundle\Cinemas.bundle.scp.css
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.csproj.CopyComplete
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\refint\Cinemas.dll
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.pdb
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\Cinemas.genruntimeconfig.cache
+E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\obj\Debug\net6.0\ref\Cinemas.dll

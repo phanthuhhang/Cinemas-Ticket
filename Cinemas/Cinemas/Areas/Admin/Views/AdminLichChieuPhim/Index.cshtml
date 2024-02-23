@@ -1,0 +1,175 @@
+﻿@using Microsoft.AspNetCore.Http;
+@using Microsoft.AspNetCore.Mvc;
+@inject IHttpContextAccessor Accessor;
+@{
+    int n = 0;
+    ViewData["Title"] = "Quản lý lịch chiếu phim";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" asp class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" href="#">Quản lý lịch chiếu phim</a>
+            <span class="breadcrumb-item active">Danh sách lịch chiếu phim </span>
+        </nav>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <div class="row m-b-30">
+            <div class="col-lg-8">
+                <div class="d-md-flex">
+                    <div class="m-b-10 m-r-15">
+                        <select class="custom-select" id="idngay" name="idngay" style="min-width: 200px;" asp-items="ViewBag.NgayChieu">
+                            <option selected value="all">Chọn tất cả</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 text-right">
+                <a asp-area="Admin" asp-controller="AdminLichChieuPhim" asp-action="Create" class="btn btn-primary">
+                    <i class="anticon anticon-plus-circle m-r-5"></i>
+                    <span>Thêm lịch mới</span>
+                </a>
+            </div>
+        </div>
+        <ul class="nav nav-tabs">
+            @foreach (var item in ViewBag.Phong)
+            {
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#phong-@item.Idphong">@item.TenPhong</a>
+                </li>
+            }
+        </ul>
+        <div class="tab-content m-t-15">
+            @foreach (var phong in ViewBag.Phong)
+            {
+                List<string> NameList = new List<string>();
+                @foreach (var itemName in ViewBag.TenPhim)
+                {
+                    @if (Model != null)
+                    {
+                        foreach (var item in Model)
+                        {
+                            if (item.IdphongNavigation.TenPhong == phong.TenPhong)
+                            {
+                                @foreach (var tenphim in ViewBag.TenPhim)
+                                {
+                                    System.Type type = tenphim.GetType();
+                                    string name = (string)type.GetProperty("TenPhim").GetValue(tenphim, null);
+                                    if (item.IdphimNavigation.TenPhim == name)
+                                    {
+                                        if (!NameList.Contains(name))
+                                        {
+                                            NameList.Add(name);
+                                        }
+                                        else break;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+
+                <div class="tab-pane fade" id="phong-@phong.Idphong">
+                    <div class="">
+                        <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                            <div class="col-sm-12">
+                                @for (int i = 0; i<NameList.Count(); i++)
+                                {
+                                    <div class="accordion" id="accordion-@(phong.Idphong+n)">
+                                        <div class="card">
+                                            <div class="card-header">
+                                                <h5 class="card-title">
+                                                    <a data-toggle="collapse" class="collapsed" href="#collapse-@n">
+                                                        <span>@NameList[i]</span>
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                                <div id="collapse-@n" class="collapse" data-parent="#accordion-@(phong.Idphong+n)">
+                                                    <div class="card-body">
+                                                        <table class="table table-hover e-commerce-table no-footer" id="DataTables_Table_0" role="grid" aria-describedby="DataTables_Table_0_info">
+                                                            <thead>
+                                                                <tr role="row">
+                                                                    <th>Giờ chiếu</th>
+                                                                    <th></th>
+                                                                </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                                @if (Model != null)
+                                                                {
+                                                                    foreach (var item in Model)
+                                                                    {
+                                                                        if (item.IdphongNavigation.TenPhong == phong.TenPhong)
+                                                                        {
+                                                                            if (item.IdphimNavigation.TenPhim == NameList[i])
+                                                                            {
+                                                                                <tr role="row" class="odd" style="width:fit-content;">
+                                                                                    <td>@item.IdgioChieuNavigation.GioChieu1 </td>
+
+                                                                                    <td class="text-right">
+                                                                                        <a asp-area="Admin" asp-controller="AdminLichChieuPhim" asp-action="Edit" asp-route-id="@item.IdlichChieu" class="btn btn-icon btn-hover btn-sm btn-rounded ">
+                                                                                            <i class="anticon anticon-edit"></i>
+                                                                                        </a>
+                                                                                        <a asp-area="Admin" asp-controller="AdminLichChieuPhim" asp-action="Delete" asp-route-id="@item.IdlichChieu" class="btn btn-icon btn-hover btn-sm btn-rounded">
+                                                                                            <i class="anticon anticon-delete"></i>
+                                                                                        </a>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+
+                                    n++;
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            jQuery("#idngay").change(function () {
+                var ngay1 = jQuery(this).children(":selected").attr("value");
+                console.log(ngay1);
+                $.ajax({
+                    url: '/Admin/AdminLichChieuPhim/Filter',
+                    datatype: "json",
+                    type: "GET",
+                    data: {
+                        ngay: ngay1
+                    },
+                    success: function (results) {
+                        if (results.status == "success") {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+
+
+

@@ -1,0 +1,143 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<Cinemas.Models.Phim>
+@{
+    int CurrentPage = ViewBag.CurrentPage;
+    ViewData["Title"] = "Danh sách phim" + CurrentPage;
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" asp class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" href="#">Quản lý phim</a>
+            <span class="breadcrumb-item active">Danh sách phim : page @CurrentPage</span>
+        </nav>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <div class="row m-b-30">
+            <div class="col-lg-8">
+                <div class="d-md-flex">
+                    <div class="m-b-10 m-r-15">
+                        <select class="custom-select" id="idTheLoai" name="idTheLoai" style="min-width: 200px;" asp-items="ViewBag.TenTheLoai">
+                            <option value="" disabled selected>Chọn thể loại</option>
+                            <option value="0">Chọn tất cả</option>
+                        </select>
+                    </div>
+                    <div class="m-b-10">
+                        <select class="custom-select" id="idTinhTrang" name="idTinhTrang" style="min-width: 200px;" asp-items="ViewBag.TenTinhTrang">
+                            <option value="0" disabled selected>Chọn tình trạng</option>
+                            <option value="0">Chọn tất cả</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 text-right">
+                <a asp-area="Admin" asp-controller="AdminPhim" asp-action="Create" class="btn btn-primary">
+                    <i class="anticon anticon-plus-circle m-r-5"></i>
+                    <span>Thêm phim mới</span>
+                </a>
+            </div>
+        </div>
+        <div class="">
+            <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                <div class="col-sm-12">
+                    <table class="table table-hover e-commerce-table dataTable no-footer" id="DataTables_Table_0" role="grid" aria-describedby="DataTables_Table_0_info">
+                        <thead>
+                            <tr role="row">
+                                <th></th>
+                                <th>ID</th>
+                                <th>Tên phim</th>
+                                <th>Ảnh</th>
+                                <th>Thể loại</th>
+                                <th>Thời lượng</th>
+                                <th>Giá vé</th>
+                                <th>Ngày khởi chiếu</th>
+                                <th>Trạng thái</th>
+                                <th>Đạo diễn</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model != null)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr role="row" class="odd">
+                                        <td>
+                                            <a asp-area="Admin" asp-controller="AdminPhim" asp-action="Details" asp-route-id="@item.Idphim" class="btn btn-icon btn-hover btn-sm btn-rounded">
+                                                <i class="anticon anticon-eye"></i>
+                                            </a>
+                                        </td>
+                                        <td>@item.Idphim </td>
+                                        <td>@item.TenPhim </td>
+                                        <td>
+                                            <div class="d-flex align-items-center">
+                                                <img class="img-fluid rounded" src="~/images/movies/@item.Img" style="max-width: 60px" alt="">
+                                            </div>
+                                        </td>
+                                        <td>@item.IdtheLoaiNavigation.TenTheLoai</td>
+                                        <td>@item.ThoiLuong phút</td>
+                                        <td>@((item.Gia/1000).ToString("#.##0")) VNĐ</td>
+                                        <td>@item.NgayKhoiChieu.ToShortDateString()</td>
+                                        <td>@item.IdtinhTrangPhimNavigation.TenTinhTrang</td>
+                                        <td>@item.DaoDien</td>
+
+                                        <td class="text-right">
+                                            <a asp-area="Admin" asp-controller="AdminPhim" asp-action="Edit" asp-route-id="@item.Idphim" class="btn btn-icon btn-hover btn-sm btn-rounded pull-right">
+                                                <i class="anticon anticon-edit"></i>
+                                            </a>
+                                            <a asp-area="Admin" asp-controller="AdminPhim" asp-action="Delete" asp-route-id="@item.Idphim" class="btn btn-icon btn-hover btn-sm btn-rounded">
+                                                <i class="anticon anticon-delete"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                    <div aria-label="Page navigation example">
+                        <ul class="pagination">
+                            <pager class="page-link" list="@Model" asp-asp-area="Admin" asp-controller="AdminPhim" asp-route-IdTheLoai="@ViewBag.CurrenCateID" asp-action="Index" />
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            jQuery("#idTheLoai").change(function () {
+                var idTL = jQuery(this).children(":selected").attr("value");
+                idTL = parseFloat(idTL);
+                $('#idTheLoai option')
+                    .removeAttr('selected');
+                $.ajax({
+                    url: '/Admin/AdminPhim/Filter',
+                    datatype: "json",
+                    type: "GET",
+                    data: {
+                        IdTheLoai: idTL
+                    },
+                    async: true,
+                    success: function (results) {
+                        if (results.status == "success") {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error: function (xhr) {
+                        alert('error');
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+

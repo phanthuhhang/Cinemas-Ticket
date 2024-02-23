@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cinemas",
+    "\\Cinemas\\Areas",
+    "\\Cinemas\\Areas\\Admin",
+    "\\Cinemas\\Areas\\Admin\\Views",
+    "\\Cinemas\\Areas\\Admin\\Views\\AdminLichChieuPhim",
+    "\\Cinemas\\Models",
+    "\\Cinemas\\Views",
+    "\\Cinemas\\Views\\Phim"
+  ],
+  "SelectedNode": "\\Cinemas\\Views\\Phim\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

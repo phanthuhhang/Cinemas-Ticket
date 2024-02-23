@@ -1,0 +1,317 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cinemas
+build_property.RootNamespace = Cinemas
+build_property.ProjectDir = E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = E:\CHUYEN_NGANH\HocKy1_CN\LapTrinhWeb_NangCao\BTL\Cinemas\Cinemas
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminAccounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminChiTietPhong/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DaGlUaWV0UGhvbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminChiTietPhong/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DaGlUaWV0UGhvbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminChiTietPhong/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DaGlUaWV0UGhvbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminChiTietPhong/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DaGlUaWV0UGhvbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminChiTietPhong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DaGlUaWV0UGhvbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminGhe/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5HaGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminGhe/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5HaGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminGhe/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5HaGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminGhe/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5HaGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminGhe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5HaGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhachHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaGFjaEhhbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhachHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaGFjaEhhbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhachHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaGFjaEhhbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhachHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaGFjaEhhbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhachHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaGFjaEhhbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhungGioChieu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaHVuZ0dpb0NoaWV1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhungGioChieu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaHVuZ0dpb0NoaWV1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhungGioChieu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaHVuZ0dpb0NoaWV1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhungGioChieu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaHVuZ0dpb0NoaWV1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminKhungGioChieu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5LaHVuZ0dpb0NoaWV1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminLichChieuPhim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MaWNoQ2hpZXVQaGltXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminLichChieuPhim/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MaWNoQ2hpZXVQaGltXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminLichChieuPhim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MaWNoQ2hpZXVQaGltXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminLichChieuPhim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MaWNoQ2hpZXVQaGltXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminLichChieuPhim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MaWNoQ2hpZXVQaGltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaGltXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhim/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaGltXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaGltXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaGltXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaGltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhong/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaG9uZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhong/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaG9uZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhong/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaG9uZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhong/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaG9uZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminPhong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QaG9uZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminTheLoaiPhim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UaGVMb2FpUGhpbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminTheLoaiPhim/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UaGVMb2FpUGhpbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminTheLoaiPhim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UaGVMb2FpUGhpbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminTheLoaiPhim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UaGVMb2FpUGhpbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/AdminTheLoaiPhim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UaGVMb2FpUGhpbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Shared/_SidebarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/ChiTietPhim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/ChiTietPhim/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/ChiTietPhim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/ChiTietPhim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/ChiTietPhim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpVGlldFBoaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Phim/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Phim/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Phim/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Phim/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Phim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Shared/_SliderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbGlkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-bamigun37x
+
+[E:/CHUYEN_NGANH/HocKy1_CN/LapTrinhWeb_NangCao/BTL/Cinemas/Cinemas/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i82k2cd6cg
